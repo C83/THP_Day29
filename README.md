@@ -10,8 +10,9 @@ _"Quoi, c'était férié aujourd'hui ?"_
 
 Plusieurs notions sont abordées : 
 - la gestion des assets (images, JS) 
-- le référencement et les différentes balises utiles à cela
-- CSS 
+- le référencement et les différentes balises utiles à cela 
+- bot twitter
+- CSS
 
 ### Heroku
 Le lien de l'application est le suivant : 
@@ -27,8 +28,9 @@ https://the-hacking-project-lp.herokuapp.com/
 - [x] ajout d'images en maitrisant l'asset pipeline
 - [x] design de la landing page
 - [x] intégration d'un formulaire Mailchimp
+- [x] bot twitter avec le lien de la LP
 
-Le projet, en théorie réalisé par 4 ou 5 moussaillons, prévoyait une partie acquisition que nous n'avons pas eu le temps de faire avec nos deux paires de mains. Sorry =/ 
+Nous en avons sué mais à l'aide de nos deux pairs de mains nous avons achevé le projet d'aujourd'hui !
 
 ### Installation 
 Si vous voulez lancer cette merveille sur votre PC, il faudra faire : 
@@ -40,5 +42,5 @@ rails server
 ```
 
 ### Screen 
-Vous pouvez tout de même profiter de nos stats de compet : 
+Nous vous invitons a profiter de nos stats de compet : 
 ![ Stats Analytics](https://github.com/C83/THP_Day29/blob/master/public/Stat_Analytics.png)
