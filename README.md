@@ -6,7 +6,7 @@ _"Quoi, c'était férié aujourd'hui ?"_
 
 
 ### Présentation 
-"THP nous apprend à coder des sites web, même sans connaissance préalable." Cette phrase aurait pu être utilisée dans le projet d'aujourd'hui mais elle était trop classique. Nous avions pour mission de créer une landing page présentant The Hacking Project. C'est l'occasion de réutiliser plusieurs notions vues ces dernières semaines, en se remettant petit à petit au front end. 
+"THP nous apprend à coder des sites web, même sans connaissance préalable." Cette phrase aurait pu être utilisée dans le projet d'aujourd'hui mais elle était trop classique. Nous avions pour mission de créer une landing page présentant The Hacking Project. C'est l'occasion de réutiliser plusieurs notions vues ces dernières semaines, en se remettant petit à petit au front end.
 
 Plusieurs notions sont abordées : 
 - la gestion des assets (images, JS) 
@@ -30,7 +30,8 @@ https://the-hacking-project-lp.herokuapp.com/
 - [x] intégration d'un formulaire Mailchimp
 - [x] bot twitter avec le lien de la LP
 
-Nous en avons sué mais à l'aide de nos deux pairs de mains nous avons achevé le projet d'aujourd'hui !
+Nous en avons sué mais à l'aide de nos deux pairs de mains nous avons achevé le projet d'aujourd'hui ! </br>
+Si tu veux voir les tweets envoyés, inscrit toi pour accéder au profil tweeter ou clique directement ici : https://twitter.com/Itsme_Imadev
 
 ### Installation 
 Si vous voulez lancer cette merveille sur votre PC, il faudra faire : 
