@@ -31,7 +31,19 @@ https://the-hacking-project-lp.herokuapp.com/
 - [x] bot twitter avec le lien de la LP
 
 Nous en avons sué mais à l'aide de nos deux pairs de mains nous avons achevé le projet d'aujourd'hui ! </br>
-Si tu veux voir les tweets envoyés, inscrit toi pour accéder au profil tweeter ou clique directement ici : https://twitter.com/Itsme_Imadev
+Si tu veux voir les tweets envoyés, inscrit toi pour accéder au profil tweeter ou clique directement [ici](https://twitter.com/Itsme_Imadev).
+
+### Choix
+
+Nous nous avons choisi de faire une page simple et fun, le backe et le front ont d'abord été réalisé indépendamment, puis nous avons réunis nos travaux.
+
+### L'acquisition
+
+Nous avons réalisé un bot twitter qui envoie des tweets à différents journalistes, le but étant d'avoir des visiteurs sur notre LP, un lien vers celle-ci est fourni dans le tweet, c'est un travail qui a déjà été réalisé, vous retrouvais le code [ici](https://github.com/C83/THP_Day29/blob/master/tweet_de_la_propagande.rb) 
+
+### Pistes d'amélioration
+
+Nous aurions aimé faire plusieurs Landing Pages notamment au moins une dynamique !
 
 ### Installation 
 Si vous voulez lancer cette merveille sur votre PC, il faudra faire : 
